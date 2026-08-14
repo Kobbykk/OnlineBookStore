@@ -1,0 +1,49 @@
+C:\Users\USER\OneDrive\Desktop\HTML Udemy Course\.Net Course\source\repos\Bulky.Utility\bin\Debug\net8.0\Bulky.Utility.deps.json
+C:\Users\USER\OneDrive\Desktop\HTML Udemy Course\.Net Course\source\repos\Bulky.Utility\bin\Debug\net8.0\Bulky.Utility.dll
+C:\Users\USER\OneDrive\Desktop\HTML Udemy Course\.Net Course\source\repos\Bulky.Utility\bin\Debug\net8.0\Bulky.Utility.pdb
+C:\Users\USER\OneDrive\Desktop\HTML Udemy Course\.Net Course\source\repos\Bulky.Utility\obj\Debug\net8.0\Bulky.Utility.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\USER\OneDrive\Desktop\HTML Udemy Course\.Net Course\source\repos\Bulky.Utility\obj\Debug\net8.0\Bulky.Utility.AssemblyInfoInputs.cache
+C:\Users\USER\OneDrive\Desktop\HTML Udemy Course\.Net Course\source\repos\Bulky.Utility\obj\Debug\net8.0\Bulky.Utility.AssemblyInfo.cs
+C:\Users\USER\OneDrive\Desktop\HTML Udemy Course\.Net Course\source\repos\Bulky.Utility\obj\Debug\net8.0\Bulky.Utility.csproj.CoreCompileInputs.cache
+C:\Users\USER\OneDrive\Desktop\HTML Udemy Course\.Net Course\source\repos\Bulky.Utility\obj\Debug\net8.0\Bulky.Utility.dll
+C:\Users\USER\OneDrive\Desktop\HTML Udemy Course\.Net Course\source\repos\Bulky.Utility\obj\Debug\net8.0\refint\Bulky.Utility.dll
+C:\Users\USER\OneDrive\Desktop\HTML Udemy Course\.Net Course\source\repos\Bulky.Utility\obj\Debug\net8.0\Bulky.Utility.pdb
+C:\Users\USER\OneDrive\Desktop\HTML Udemy Course\.Net Course\source\repos\Bulky.Utility\obj\Debug\net8.0\ref\Bulky.Utility.dll
+C:\Users\USER\OneDrive\Desktop\HTML Udemy Course\.Net Course\source\repos\Bulky.Utility\obj\Debug\net8.0\Bulky.Utility.csproj.AssemblyReference.cache
+N:\Big Projects\HTML Udemy Course\.Net Course\source\repos\Bulky.Utility\bin\Debug\net8.0\Bulky.Utility.deps.json
+N:\Big Projects\HTML Udemy Course\.Net Course\source\repos\Bulky.Utility\bin\Debug\net8.0\Bulky.Utility.dll
+N:\Big Projects\HTML Udemy Course\.Net Course\source\repos\Bulky.Utility\bin\Debug\net8.0\Bulky.Utility.pdb
+N:\Big Projects\HTML Udemy Course\.Net Course\source\repos\Bulky.Utility\obj\Debug\net8.0\Bulky.Utility.csproj.AssemblyReference.cache
+N:\Big Projects\HTML Udemy Course\.Net Course\source\repos\Bulky.Utility\obj\Debug\net8.0\Bulky.Utility.GeneratedMSBuildEditorConfig.editorconfig
+N:\Big Projects\HTML Udemy Course\.Net Course\source\repos\Bulky.Utility\obj\Debug\net8.0\Bulky.Utility.AssemblyInfoInputs.cache
+N:\Big Projects\HTML Udemy Course\.Net Course\source\repos\Bulky.Utility\obj\Debug\net8.0\Bulky.Utility.AssemblyInfo.cs
+N:\Big Projects\HTML Udemy Course\.Net Course\source\repos\Bulky.Utility\obj\Debug\net8.0\Bulky.Utility.csproj.CoreCompileInputs.cache
+N:\Big Projects\HTML Udemy Course\.Net Course\source\repos\Bulky.Utility\obj\Debug\net8.0\Bulky.Utility.dll
+N:\Big Projects\HTML Udemy Course\.Net Course\source\repos\Bulky.Utility\obj\Debug\net8.0\refint\Bulky.Utility.dll
+N:\Big Projects\HTML Udemy Course\.Net Course\source\repos\Bulky.Utility\obj\Debug\net8.0\Bulky.Utility.pdb
+N:\Big Projects\HTML Udemy Course\.Net Course\source\repos\Bulky.Utility\obj\Debug\net8.0\ref\Bulky.Utility.dll
+C:\Users\USER\OneDrive\Desktop\My Files\Big Projects\HTML Udemy Course\.Net Course\source\repos\Bulky.Utility\bin\Debug\net8.0\Bulky.Utility.deps.json
+C:\Users\USER\OneDrive\Desktop\My Files\Big Projects\HTML Udemy Course\.Net Course\source\repos\Bulky.Utility\bin\Debug\net8.0\Bulky.Utility.dll
+C:\Users\USER\OneDrive\Desktop\My Files\Big Projects\HTML Udemy Course\.Net Course\source\repos\Bulky.Utility\bin\Debug\net8.0\Bulky.Utility.pdb
+C:\Users\USER\OneDrive\Desktop\My Files\Big Projects\HTML Udemy Course\.Net Course\source\repos\Bulky.Utility\obj\Debug\net8.0\Bulky.Utility.csproj.AssemblyReference.cache
+C:\Users\USER\OneDrive\Desktop\My Files\Big Projects\HTML Udemy Course\.Net Course\source\repos\Bulky.Utility\obj\Debug\net8.0\Bulky.Utility.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\USER\OneDrive\Desktop\My Files\Big Projects\HTML Udemy Course\.Net Course\source\repos\Bulky.Utility\obj\Debug\net8.0\Bulky.Utility.AssemblyInfoInputs.cache
+C:\Users\USER\OneDrive\Desktop\My Files\Big Projects\HTML Udemy Course\.Net Course\source\repos\Bulky.Utility\obj\Debug\net8.0\Bulky.Utility.AssemblyInfo.cs
+C:\Users\USER\OneDrive\Desktop\My Files\Big Projects\HTML Udemy Course\.Net Course\source\repos\Bulky.Utility\obj\Debug\net8.0\Bulky.Utility.csproj.CoreCompileInputs.cache
+C:\Users\USER\OneDrive\Desktop\My Files\Big Projects\HTML Udemy Course\.Net Course\source\repos\Bulky.Utility\obj\Debug\net8.0\Bulky.Utility.dll
+C:\Users\USER\OneDrive\Desktop\My Files\Big Projects\HTML Udemy Course\.Net Course\source\repos\Bulky.Utility\obj\Debug\net8.0\refint\Bulky.Utility.dll
+C:\Users\USER\OneDrive\Desktop\My Files\Big Projects\HTML Udemy Course\.Net Course\source\repos\Bulky.Utility\obj\Debug\net8.0\Bulky.Utility.pdb
+C:\Users\USER\OneDrive\Desktop\My Files\Big Projects\HTML Udemy Course\.Net Course\source\repos\Bulky.Utility\obj\Debug\net8.0\ref\Bulky.Utility.dll
+C:\Users\USER\OneDrive\Desktop\KK\My Files\Big Projects\HTML Udemy Course\.Net Course\source\repos\Bulky.Utility\bin\Debug\net8.0\Bulky.Utility.deps.json
+C:\Users\USER\OneDrive\Desktop\KK\My Files\Big Projects\HTML Udemy Course\.Net Course\source\repos\Bulky.Utility\bin\Debug\net8.0\Bulky.Utility.dll
+C:\Users\USER\OneDrive\Desktop\KK\My Files\Big Projects\HTML Udemy Course\.Net Course\source\repos\Bulky.Utility\bin\Debug\net8.0\Bulky.Utility.pdb
+C:\Users\USER\OneDrive\Desktop\KK\My Files\Big Projects\HTML Udemy Course\.Net Course\source\repos\Bulky.Utility\obj\Debug\net8.0\Bulky.Utility.csproj.AssemblyReference.cache
+C:\Users\USER\OneDrive\Desktop\KK\My Files\Big Projects\HTML Udemy Course\.Net Course\source\repos\Bulky.Utility\obj\Debug\net8.0\Bulky.Utility.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\USER\OneDrive\Desktop\KK\My Files\Big Projects\HTML Udemy Course\.Net Course\source\repos\Bulky.Utility\obj\Debug\net8.0\Bulky.Utility.AssemblyInfoInputs.cache
+C:\Users\USER\OneDrive\Desktop\KK\My Files\Big Projects\HTML Udemy Course\.Net Course\source\repos\Bulky.Utility\obj\Debug\net8.0\Bulky.Utility.AssemblyInfo.cs
+C:\Users\USER\OneDrive\Desktop\KK\My Files\Big Projects\HTML Udemy Course\.Net Course\source\repos\Bulky.Utility\obj\Debug\net8.0\Bulky.Utility.csproj.CoreCompileInputs.cache
+C:\Users\USER\OneDrive\Desktop\KK\My Files\Big Projects\HTML Udemy Course\.Net Course\source\repos\Bulky.Utility\obj\Debug\net8.0\Bulky.Utility.dll
+C:\Users\USER\OneDrive\Desktop\KK\My Files\Big Projects\HTML Udemy Course\.Net Course\source\repos\Bulky.Utility\obj\Debug\net8.0\refint\Bulky.Utility.dll
+C:\Users\USER\OneDrive\Desktop\KK\My Files\Big Projects\HTML Udemy Course\.Net Course\source\repos\Bulky.Utility\obj\Debug\net8.0\Bulky.Utility.pdb
+C:\Users\USER\OneDrive\Desktop\KK\My Files\Big Projects\HTML Udemy Course\.Net Course\source\repos\Bulky.Utility\obj\Debug\net8.0\ref\Bulky.Utility.dll
+C:\Users\USER\OneDrive\Desktop\KK\My Files\Big Projects\HTML Udemy Course\.Net Course\source\repos\Bulky.Utility\obj\Debug\net8.0\Bulky.Ut.DF4F08F0.Up2Date

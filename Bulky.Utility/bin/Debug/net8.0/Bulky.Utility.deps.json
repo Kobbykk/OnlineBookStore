@@ -1,0 +1,41 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "Bulky.Utility/1.0.0": {
+        "dependencies": {
+          "Microsoft.AspNetCore.Identity.UI": "8.0.0-rc.2.23480.2"
+        },
+        "runtime": {
+          "Bulky.Utility.dll": {}
+        }
+      },
+      "Microsoft.AspNetCore.Identity.UI/8.0.0-rc.2.23480.2": {
+        "runtime": {
+          "lib/net8.0/Microsoft.AspNetCore.Identity.UI.dll": {
+            "assemblyVersion": "8.0.0.0",
+            "fileVersion": "8.0.23.48002"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Bulky.Utility/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Microsoft.AspNetCore.Identity.UI/8.0.0-rc.2.23480.2": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-ERNZkq+1IOmJty2IQ6MoLQirdxiL4tAJpy2S3X3Kj7hG3Czj9gnWycneRuFLm7axXoFs45vtrdFJJgn0+KL7bg==",
+      "path": "microsoft.aspnetcore.identity.ui/8.0.0-rc.2.23480.2",
+      "hashPath": "microsoft.aspnetcore.identity.ui.8.0.0-rc.2.23480.2.nupkg.sha512"
+    }
+  }
+}

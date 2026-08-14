@@ -1,0 +1,49 @@
+C:\Users\USER\OneDrive\Desktop\HTML Udemy Course\.Net Course\source\repos\Bulky.Models\bin\Debug\net8.0\Bulky.Models.deps.json
+C:\Users\USER\OneDrive\Desktop\HTML Udemy Course\.Net Course\source\repos\Bulky.Models\bin\Debug\net8.0\Bulky.Models.dll
+C:\Users\USER\OneDrive\Desktop\HTML Udemy Course\.Net Course\source\repos\Bulky.Models\bin\Debug\net8.0\Bulky.Models.pdb
+C:\Users\USER\OneDrive\Desktop\HTML Udemy Course\.Net Course\source\repos\Bulky.Models\obj\Debug\net8.0\Bulky.Models.csproj.AssemblyReference.cache
+C:\Users\USER\OneDrive\Desktop\HTML Udemy Course\.Net Course\source\repos\Bulky.Models\obj\Debug\net8.0\Bulky.Models.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\USER\OneDrive\Desktop\HTML Udemy Course\.Net Course\source\repos\Bulky.Models\obj\Debug\net8.0\Bulky.Models.AssemblyInfoInputs.cache
+C:\Users\USER\OneDrive\Desktop\HTML Udemy Course\.Net Course\source\repos\Bulky.Models\obj\Debug\net8.0\Bulky.Models.AssemblyInfo.cs
+C:\Users\USER\OneDrive\Desktop\HTML Udemy Course\.Net Course\source\repos\Bulky.Models\obj\Debug\net8.0\Bulky.Models.csproj.CoreCompileInputs.cache
+C:\Users\USER\OneDrive\Desktop\HTML Udemy Course\.Net Course\source\repos\Bulky.Models\obj\Debug\net8.0\Bulky.Models.dll
+C:\Users\USER\OneDrive\Desktop\HTML Udemy Course\.Net Course\source\repos\Bulky.Models\obj\Debug\net8.0\refint\Bulky.Models.dll
+C:\Users\USER\OneDrive\Desktop\HTML Udemy Course\.Net Course\source\repos\Bulky.Models\obj\Debug\net8.0\Bulky.Models.pdb
+C:\Users\USER\OneDrive\Desktop\HTML Udemy Course\.Net Course\source\repos\Bulky.Models\obj\Debug\net8.0\ref\Bulky.Models.dll
+N:\Big Projects\HTML Udemy Course\.Net Course\source\repos\Bulky.Models\bin\Debug\net8.0\Bulky.Models.deps.json
+N:\Big Projects\HTML Udemy Course\.Net Course\source\repos\Bulky.Models\bin\Debug\net8.0\Bulky.Models.dll
+N:\Big Projects\HTML Udemy Course\.Net Course\source\repos\Bulky.Models\bin\Debug\net8.0\Bulky.Models.pdb
+N:\Big Projects\HTML Udemy Course\.Net Course\source\repos\Bulky.Models\obj\Debug\net8.0\Bulky.Models.csproj.AssemblyReference.cache
+N:\Big Projects\HTML Udemy Course\.Net Course\source\repos\Bulky.Models\obj\Debug\net8.0\Bulky.Models.GeneratedMSBuildEditorConfig.editorconfig
+N:\Big Projects\HTML Udemy Course\.Net Course\source\repos\Bulky.Models\obj\Debug\net8.0\Bulky.Models.AssemblyInfoInputs.cache
+N:\Big Projects\HTML Udemy Course\.Net Course\source\repos\Bulky.Models\obj\Debug\net8.0\Bulky.Models.AssemblyInfo.cs
+N:\Big Projects\HTML Udemy Course\.Net Course\source\repos\Bulky.Models\obj\Debug\net8.0\Bulky.Models.csproj.CoreCompileInputs.cache
+N:\Big Projects\HTML Udemy Course\.Net Course\source\repos\Bulky.Models\obj\Debug\net8.0\Bulky.Models.dll
+N:\Big Projects\HTML Udemy Course\.Net Course\source\repos\Bulky.Models\obj\Debug\net8.0\refint\Bulky.Models.dll
+N:\Big Projects\HTML Udemy Course\.Net Course\source\repos\Bulky.Models\obj\Debug\net8.0\Bulky.Models.pdb
+N:\Big Projects\HTML Udemy Course\.Net Course\source\repos\Bulky.Models\obj\Debug\net8.0\ref\Bulky.Models.dll
+C:\Users\USER\OneDrive\Desktop\My Files\Big Projects\HTML Udemy Course\.Net Course\source\repos\Bulky.Models\bin\Debug\net8.0\Bulky.Models.deps.json
+C:\Users\USER\OneDrive\Desktop\My Files\Big Projects\HTML Udemy Course\.Net Course\source\repos\Bulky.Models\bin\Debug\net8.0\Bulky.Models.dll
+C:\Users\USER\OneDrive\Desktop\My Files\Big Projects\HTML Udemy Course\.Net Course\source\repos\Bulky.Models\bin\Debug\net8.0\Bulky.Models.pdb
+C:\Users\USER\OneDrive\Desktop\My Files\Big Projects\HTML Udemy Course\.Net Course\source\repos\Bulky.Models\obj\Debug\net8.0\Bulky.Models.csproj.AssemblyReference.cache
+C:\Users\USER\OneDrive\Desktop\My Files\Big Projects\HTML Udemy Course\.Net Course\source\repos\Bulky.Models\obj\Debug\net8.0\Bulky.Models.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\USER\OneDrive\Desktop\My Files\Big Projects\HTML Udemy Course\.Net Course\source\repos\Bulky.Models\obj\Debug\net8.0\Bulky.Models.AssemblyInfoInputs.cache
+C:\Users\USER\OneDrive\Desktop\My Files\Big Projects\HTML Udemy Course\.Net Course\source\repos\Bulky.Models\obj\Debug\net8.0\Bulky.Models.AssemblyInfo.cs
+C:\Users\USER\OneDrive\Desktop\My Files\Big Projects\HTML Udemy Course\.Net Course\source\repos\Bulky.Models\obj\Debug\net8.0\Bulky.Models.csproj.CoreCompileInputs.cache
+C:\Users\USER\OneDrive\Desktop\My Files\Big Projects\HTML Udemy Course\.Net Course\source\repos\Bulky.Models\obj\Debug\net8.0\Bulky.Models.dll
+C:\Users\USER\OneDrive\Desktop\My Files\Big Projects\HTML Udemy Course\.Net Course\source\repos\Bulky.Models\obj\Debug\net8.0\refint\Bulky.Models.dll
+C:\Users\USER\OneDrive\Desktop\My Files\Big Projects\HTML Udemy Course\.Net Course\source\repos\Bulky.Models\obj\Debug\net8.0\Bulky.Models.pdb
+C:\Users\USER\OneDrive\Desktop\My Files\Big Projects\HTML Udemy Course\.Net Course\source\repos\Bulky.Models\obj\Debug\net8.0\ref\Bulky.Models.dll
+C:\Users\USER\OneDrive\Desktop\KK\My Files\Big Projects\HTML Udemy Course\.Net Course\source\repos\Bulky.Models\bin\Debug\net8.0\Bulky.Models.deps.json
+C:\Users\USER\OneDrive\Desktop\KK\My Files\Big Projects\HTML Udemy Course\.Net Course\source\repos\Bulky.Models\bin\Debug\net8.0\Bulky.Models.dll
+C:\Users\USER\OneDrive\Desktop\KK\My Files\Big Projects\HTML Udemy Course\.Net Course\source\repos\Bulky.Models\bin\Debug\net8.0\Bulky.Models.pdb
+C:\Users\USER\OneDrive\Desktop\KK\My Files\Big Projects\HTML Udemy Course\.Net Course\source\repos\Bulky.Models\obj\Debug\net8.0\Bulky.Models.csproj.AssemblyReference.cache
+C:\Users\USER\OneDrive\Desktop\KK\My Files\Big Projects\HTML Udemy Course\.Net Course\source\repos\Bulky.Models\obj\Debug\net8.0\Bulky.Models.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\USER\OneDrive\Desktop\KK\My Files\Big Projects\HTML Udemy Course\.Net Course\source\repos\Bulky.Models\obj\Debug\net8.0\Bulky.Models.AssemblyInfoInputs.cache
+C:\Users\USER\OneDrive\Desktop\KK\My Files\Big Projects\HTML Udemy Course\.Net Course\source\repos\Bulky.Models\obj\Debug\net8.0\Bulky.Models.AssemblyInfo.cs
+C:\Users\USER\OneDrive\Desktop\KK\My Files\Big Projects\HTML Udemy Course\.Net Course\source\repos\Bulky.Models\obj\Debug\net8.0\Bulky.Models.csproj.CoreCompileInputs.cache
+C:\Users\USER\OneDrive\Desktop\KK\My Files\Big Projects\HTML Udemy Course\.Net Course\source\repos\Bulky.Models\obj\Debug\net8.0\Bulky.Models.dll
+C:\Users\USER\OneDrive\Desktop\KK\My Files\Big Projects\HTML Udemy Course\.Net Course\source\repos\Bulky.Models\obj\Debug\net8.0\refint\Bulky.Models.dll
+C:\Users\USER\OneDrive\Desktop\KK\My Files\Big Projects\HTML Udemy Course\.Net Course\source\repos\Bulky.Models\obj\Debug\net8.0\Bulky.Models.pdb
+C:\Users\USER\OneDrive\Desktop\KK\My Files\Big Projects\HTML Udemy Course\.Net Course\source\repos\Bulky.Models\obj\Debug\net8.0\ref\Bulky.Models.dll
+C:\Users\USER\OneDrive\Desktop\KK\My Files\Big Projects\HTML Udemy Course\.Net Course\source\repos\Bulky.Models\obj\Debug\net8.0\Bulky.Mo.343AC5CD.Up2Date
